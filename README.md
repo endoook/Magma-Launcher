@@ -25,7 +25,6 @@ The program is provided **"as is"**. The developers are not responsible for any 
 ## ❓ Support  
 If you have any problems, write to:
 - **Telegram:** [MagmaLauncher](https://t.me/mglauncher)  
-- **Email:** soon...
 
 ---  
 **Magma Launcher** – inside the volcano of possibilities! 
